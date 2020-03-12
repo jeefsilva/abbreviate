@@ -7,7 +7,7 @@ Colaborações serão bem-vindas!
 #### HTML
 
 ```html
-<span class="abbreviate" />
+<span class="abbreviate">123445</span>
 ```
 
 #### Tipos de abreviação:
