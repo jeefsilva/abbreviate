@@ -10,6 +10,12 @@ Colaborações serão bem-vindas!
 <span class="abbreviate">123445</span>
 ```
 
+#### Adicionar script abbreviate.js em seu HTML
+
+```html
+<script type="text/javascript" src="/abbreviate.js"></script>
+```
+
 #### Tipos de abreviação:
 
 0 "0"
